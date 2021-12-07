@@ -1,0 +1,19 @@
+{
+  "name": "foach",
+  "version": "1.0.0",
+  "description": "test-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chudinovaa/foach.git"
+  },
+  "author": "Chudinov Anton <nutsway@e1.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chudinovaa/foach/issues"
+  },
+  "homepage": "https://github.com/chudinovaa/foach#readme"
+}
